@@ -1,0 +1,95 @@
+{
+  "app": "com.bohemiancoding.sketch3",
+  "appVersion": "50.2",
+  "autosaved": 0,
+  "build": 55047,
+  "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+  "compatibilityVersion": 99,
+  "created": {
+    "app": "com.bohemiancoding.sketch3",
+    "appVersion": "50.2",
+    "build": 55047,
+    "commit": "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+    "compatibilityVersion": 99,
+    "variant": "NONAPPSTORE",
+    "version": 103
+  },
+  "fonts": [
+    "Ubuntu-Medium",
+    "Ubuntu-Bold",
+    "Ubuntu"
+  ],
+  "pagesAndArtboards": {
+    "1C038E2A-79D8-4496-B14D-4B2EC106F2F7": {
+      "artboards": {
+        "0231D97B-5D9E-4FE7-8551-9AF134E3E6EB": {
+          "name": "OR_positions"
+        },
+        "23011372-ADBD-4C2F-B74E-62D3E06FB5FA": {
+          "name": "OR_positions--opened table n/a"
+        },
+        "34F723B9-ED09-432D-BD6E-304CD8F4E0EC": {
+          "name": "OR_positions--no data"
+        },
+        "8A81A52F-D4A2-4752-A1B6-F57F071644D0": {
+          "name": "OR_positions--opened table"
+        }
+      },
+      "name": "old"
+    },
+    "2598046B-58C5-48D7-A39C-14F12BA54063": {
+      "artboards": {
+        "085287A2-3C73-4A49-8A3B-0CA513CF4F7B": {
+          "name": "minitrend 5"
+        },
+        "3845B56C-665F-4E1F-B5DE-37FE0A368E3C": {
+          "name": "minitrend 2"
+        },
+        "3BCF730C-3259-4623-B9CA-3568986CDB9F": {
+          "name": "minitrend 8"
+        },
+        "3FF23070-49F2-4B44-B106-C92E188F7EC8": {
+          "name": "minitrend 4"
+        },
+        "8DC746CF-C4C4-4DBC-A2AD-DA6208F009FC": {
+          "name": "minitrend"
+        },
+        "93BF396C-9065-48B7-B24A-B01E2FAC5122": {
+          "name": "minitrend 6"
+        },
+        "A12187B3-58A7-4627-86C7-A38017E1645B": {
+          "name": "minitrend 7"
+        },
+        "E19AA151-53EC-4351-A9CA-922E6583A922": {
+          "name": "minitrend 3"
+        },
+        "EF5B90C9-40B2-4867-A961-44465245620A": {
+          "name": "report header"
+        }
+      },
+      "name": "Symbols"
+    },
+    "FBA7D571-F344-4272-9949-7E16AE60300F": {
+      "artboards": {
+        "19853BC8-93DD-4440-961C-FA400C1DA4D0": {
+          "name": "OR_positions--opened table n/a"
+        },
+        "28352EA5-0AD8-41BE-983C-009830C269EB": {
+          "name": "OR_positions--no data"
+        },
+        "76453288-B989-4C2E-85B9-8311F0A74F21": {
+          "name": "OR_positions--opened table"
+        },
+        "E5492AF4-1F1A-4E3B-8AE7-193452F9A561": {
+          "name": "OR_positions"
+        }
+      },
+      "name": "OR_positions"
+    }
+  },
+  "saveHistory": [
+    "NONAPPSTORE.55047"
+  ],
+  "variant": "NONAPPSTORE",
+  "version": 103
+}
